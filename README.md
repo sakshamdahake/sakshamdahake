@@ -17,7 +17,8 @@ Respectful self-motivator gifted at finding reliable solutions for software issu
 
 
 
-## Worked for SerenovaLLC
+## Worked for SerenovaLLC 
+https://i.postimg.cc/HxwL0Fsx/Serenova-Lifesize-Logos-removebg-preview.png
 
 - Successfully migrated a global client's messaging bus from AWS SQS to AWS MSK (Kafka), cutting downtime by 30% for a complex Clojure-based application.
 - Implemented new messaging architecture using AWS MSK (Kafka) for ccaas/vcaas system, achieving a 40% increase in message throughput and enabling seamless scalability.
