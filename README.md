@@ -2,6 +2,7 @@
 
 <h1> Hey, I’m Saksham </h1>
 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=blue&vCenter=true&lines=Software+Engineer;)
 
@@ -17,8 +18,8 @@ Respectful self-motivator gifted at finding reliable solutions for software issu
 
 
 
-## Worked for SerenovaLLC 
-https://i.postimg.cc/HxwL0Fsx/Serenova-Lifesize-Logos-removebg-preview.png
+## Worked for [SerenovaLLC](https://www.linkedin.com/company/serenova/)
+
 
 - Successfully migrated a global client's messaging bus from AWS SQS to AWS MSK (Kafka), cutting downtime by 30% for a complex Clojure-based application.
 - Implemented new messaging architecture using AWS MSK (Kafka) for ccaas/vcaas system, achieving a 40% increase in message throughput and enabling seamless scalability.
