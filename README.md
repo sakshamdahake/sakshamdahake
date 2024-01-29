@@ -9,13 +9,16 @@
 Respectful self-motivator gifted at finding reliable solutions for software issues. Experienced in Micro service Development and  Various Cloud Services and offering skills in JAVA and JavaScript. Fluent in English and accustomed to working with cross-cultural.
 ``
 
-  👀 I am an Software Engineer<br>
+  👀 I am an Software Engineer @ Persistent Systems ltd<br>
   🤖 Currently practising Machine Learning and its applications<br>
   🫂 Looking for a collaborator on DS and ML projects<br> 
   📖 I'm finding opportunities for research internships in Machine Learning<br>
   📫 sakdahake28@gmail.com <br> 
 
-  ---
+
+
+## Worked for SerenovaLLC
+
 - Successfully migrated a global client's messaging bus from AWS SQS to AWS MSK (Kafka), cutting downtime by 30% for a complex Clojure-based application.
 - Implemented new messaging architecture using AWS MSK (Kafka) for ccaas/vcaas system, achieving a 40% increase in message throughput and enabling seamless scalability.
 - Investigated and resolved client tickets by addressing logging issues and bugs, ensuring application stability through meticulous root cause analysis.
