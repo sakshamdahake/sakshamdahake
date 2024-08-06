@@ -4,7 +4,7 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=blue&vCenter=true&lines=Software+Engineer;)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=blue&vCenter=true&lines=Senior+Software+Engineer;)
 
 ``
 Respectful self-motivator gifted at finding reliable solutions for software issues. Experienced in Micro service Development and  Various Cloud Services and offering skills in JAVA and JavaScript. Fluent in English and accustomed to working with cross-cultural.
