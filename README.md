@@ -7,25 +7,25 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=blue&vCenter=true&lines=Senior+Software+Engineer;)
 
 ``
-Respectful self-motivator gifted at finding reliable solutions for software issues. Experienced in Micro service Development and  Various Cloud Services and offering skills in JAVA and JavaScript. Fluent in English and accustomed to working with cross-cultural.
+Respectful self-motivator gifted at finding reliable solutions for software issues. Experienced in Micro service Development and  Various Cloud Services and offering skills in Python and Java. Fluent in English and accustomed to working with cross-cultural.
 ``
 
   👀 I am an Software Engineer @ Persistent Systems ltd<br>
   🤖 Currently practising Machine Learning and its applications<br>
-  🫂 Looking for a collaborator on DS and ML projects<br> 
+  🫂 Looking for a collaborator on GenAI projects<br> 
   📖 I'm finding opportunities for research internships in Machine Learning<br>
   📫 sakdahake28@gmail.com <br> 
 
 
 
-## Worked for [SerenovaLLC](https://www.linkedin.com/company/serenova/)
+## Worked for [Persistent Systems Ltd.](https://www.linkedin.com/company/)
 
 
-- Successfully migrated a global client's messaging bus from AWS SQS to AWS MSK (Kafka), cutting downtime by 30% for a complex Clojure-based application.
-- Implemented new messaging architecture using AWS MSK (Kafka) for ccaas/vcaas system, achieving a 40% increase in message throughput and enabling seamless scalability.
-- Investigated and resolved client tickets by addressing logging issues and bugs, ensuring application stability through meticulous root cause analysis.
-- Collaborated to enhance existing application's messaging system, resulting in a 25% reduction in message latency for improved user experience.
-- Contributed to the implementation of SASL login/logout for clients' applications, delivering efficient solutions in line with security standards.
+- Architected and led development of GenAI-powered call transcription pipeline using AWS Transcribe and OpenAI GPT-4 API, achieving 95% accuracy and enabling automated insights extraction for customer analytics.
+- Designed and optimized RAG-based pipelines integrating LangChain, AWS Bedrock, and HuggingFace, enabling scalable retrieval and contextual generation workflows.
+- Led modernization of messaging infrastructure, migrating from AWS SQS to Kafka (MSK), reducing downtime by 30% and increasing throughput by 40%.
+- Spearheaded upgrade of 40+ AWS Lambda functions from Node.js 12.x to 22.x and SDK v3, cutting cold start times by 40% and eliminating key security vulnerabilities.
+- Mentored junior engineers on LLM integration, RAG system design, and prompt engineering, improving delivery quality and consistency across AI feature modules.
 
   ---
 ## My Skills 🚀
